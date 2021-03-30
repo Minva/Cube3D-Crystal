@@ -1,0 +1,13 @@
+name: cube-3d
+version: 0.1.0
+
+authors:
+  - lodenos <nikolaiilodenos@gmail.com>
+
+targets:
+  cube-3d:
+    main: src/main.cr
+
+crystal: 1.0.0
+
+license: MIT
