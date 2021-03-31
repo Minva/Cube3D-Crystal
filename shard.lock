@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  glfw:
+    git: https://github.com/minva/glfw-crystal.git
+    version: 0.1.0+git.commit.0cd276a92ce310a6e8e6efc2461cdd016b4b0793
+
+  opengl:
+    git: https://github.com/minva/opengl-crystal.git
+    version: 4.5.0+git.commit.5e6aa7f5409035e2048695b7ab66b17e15407507
+

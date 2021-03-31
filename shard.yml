@@ -4,6 +4,12 @@ version: 0.1.0
 authors:
   - lodenos <nikolaiilodenos@gmail.com>
 
+dependencies:
+  glfw:
+    github: Minva/GLFW-Crystal
+  opengl:
+    github: Minva/OpenGL-Crystal
+
 targets:
   cube-3d:
     main: src/main.cr
